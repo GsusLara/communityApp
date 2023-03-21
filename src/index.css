@@ -1,13 +1,8 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.banner {
+  width: 90%;
+  height: 28vh; 
+  margin: 0 auto;
+  background-image: url('https://maritzacartin.files.wordpress.com/2018/01/iglesia-de-vista-de-mar-foto-panoramio-1.jpg');
+  background-size: cover;
+  background-position: center;
 }
